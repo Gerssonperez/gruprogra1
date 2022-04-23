@@ -1,3 +1,4 @@
+//
 void buscargrado()
 {
    char idgrado[10];

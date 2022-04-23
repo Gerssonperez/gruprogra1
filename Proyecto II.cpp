@@ -1,3 +1,4 @@
+// funcion ordenar
 void ordenar() 
 {   
    MYSQL_RES *res;

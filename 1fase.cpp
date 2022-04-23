@@ -1,6 +1,6 @@
 // Ejecutar el archivo "script.sql", el cual creará la base "alumnos2" y
 // la tabla "alumnos2", ademas de unos datos para la misma.
-
+//
 #include "sql_db.h"
 #include <iostream>
 using std::cout;
